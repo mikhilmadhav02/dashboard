@@ -1,0 +1,25 @@
+.card{
+    
+    
+    width: 170px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+mat-icon{
+    font-size: 20px;
+    
+}
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}

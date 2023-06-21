@@ -1,0 +1,48 @@
+img{
+    width: 60px;
+    height: 70px;
+}
+.profile{
+    text-align: center;
+}
+.profile h3{
+font-weight: 500;
+margin-bottom:0px;
+}
+.pages a{
+    text-decoration: none;
+    color: black;
+    height: 35px;
+    padding: 10px 0 0 10px;
+}
+h2{
+    font-weight: 500;
+    font-size: medium;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+.pages{
+    display: flex;
+    flex-direction:column;
+}
+.tools{
+    display: flex;
+    flex-direction:column;
+}
+.tools a{
+    text-decoration: none;
+    color: black;
+    height: 40px;
+    padding:10px 0 0 10px ;
+    
+    
+
+}
+a:hover{
+    background-color: rgb(142, 146, 146);
+}
+mat-icon{
+    vertical-align: middle;
+    margin-right: 10px;
+
+}
